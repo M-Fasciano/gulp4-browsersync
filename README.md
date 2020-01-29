@@ -1,1 +1,3 @@
-# gulp4-browsersync
+# Gulp 4 + Browsersync
+
+Frontend starter kit
